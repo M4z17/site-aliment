@@ -4,6 +4,7 @@ h1 {
   front size: 20px;
   front-family:Impact, fantasy;
   display:flex;
+  gap:50px
 }
 
 h2 {
