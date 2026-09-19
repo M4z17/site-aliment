@@ -16,3 +16,16 @@ h2 {
 #image-avocat {
     border radius:4px;
     }
+    
+#banane{
+   display:flex;
+   gap:50px
+  }
+  
+#avocat{
+   display:flex;
+   gap:50px
+  }
+  
+
+    
